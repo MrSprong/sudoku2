@@ -1,0 +1,9 @@
+C:\OwnProjects\SudokuTspr19feb2020\SudokuTspr19feb2020\bin\Debug\SudokuTspr19feb2020.exe.config
+C:\OwnProjects\SudokuTspr19feb2020\SudokuTspr19feb2020\bin\Debug\SudokuTspr19feb2020.exe
+C:\OwnProjects\SudokuTspr19feb2020\SudokuTspr19feb2020\bin\Debug\SudokuTspr19feb2020.pdb
+C:\OwnProjects\SudokuTspr19feb2020\SudokuTspr19feb2020\obj\Debug\SudokuTspr19feb2020.csprojAssemblyReference.cache
+C:\OwnProjects\SudokuTspr19feb2020\SudokuTspr19feb2020\obj\Debug\SudokuTspr19feb2020.Form1.resources
+C:\OwnProjects\SudokuTspr19feb2020\SudokuTspr19feb2020\obj\Debug\SudokuTspr19feb2020.Properties.Resources.resources
+C:\OwnProjects\SudokuTspr19feb2020\SudokuTspr19feb2020\obj\Debug\SudokuTspr19feb2020.csproj.GenerateResource.cache
+C:\OwnProjects\SudokuTspr19feb2020\SudokuTspr19feb2020\obj\Debug\SudokuTspr19feb2020.exe
+C:\OwnProjects\SudokuTspr19feb2020\SudokuTspr19feb2020\obj\Debug\SudokuTspr19feb2020.pdb
